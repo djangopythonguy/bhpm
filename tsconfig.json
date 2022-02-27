@@ -26,7 +26,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "pages/bid2.jsx"  ],
   "exclude": [
     "node_modules"
   ]

@@ -18,7 +18,7 @@ const AddressList = () => {
         icon={Place}
         button={
           <Button color="primary" sx={{ bgcolor: 'primary.light', px: '2rem' }}>
-            Add New Address {Axios.defaults.baseURL}
+            Add New Address
           </Button>
         }
         navigation={<CustomerDashboardNavigation />}

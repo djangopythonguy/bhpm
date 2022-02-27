@@ -33,7 +33,7 @@ const CategorySectionHeader: React.FC<CategorySectionHeaderProps> = ({
           <a>
             <FlexBox alignItems="center" ml={1} color="grey.600">
               View all
-              <ArrowRight fontSize="big" color="inherit" />
+              <ArrowRight color="inherit" />
             </FlexBox>
           </a>
         </Link>

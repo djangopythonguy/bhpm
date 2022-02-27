@@ -6,7 +6,7 @@ export const mainCarouselData = [
     photoUrl: '/assets/images/products/image25.jpeg',
     description:
       'This product was discovered during Ming Dynasty. 2022年3月26日(星期六) 6:00pm',
-    buttonText: 'Vist Now',
+    buttonText: 'Bid Now',
     buttonLik: '#',
   },
   {
@@ -14,7 +14,7 @@ export const mainCarouselData = [
     photoUrl: '/assets/images/products/image26.jpeg',
     description:
       'This product was discovered during Ming Dynasty. 2022年3月26日(星期六) 6:00pm',
-    buttonText: 'Vist Now',
+    buttonText: 'Bid Now',
     buttonLik: '#',
   },
   {
@@ -22,7 +22,7 @@ export const mainCarouselData = [
     photoUrl: '/assets/images/products/image27.jpeg',
     description:
       'This product was discovered during Ming Dynasty. 2022年3月26日(星期六) 6:00pm',
-    buttonText: 'Vist Now',
+    buttonText: 'Bid Now',
     buttonLik: '#',
   },
   {
@@ -30,7 +30,7 @@ export const mainCarouselData = [
     photoUrl: '/assets/images/products/image12.jpeg',
     description:
       'This product was discovered during Ming Dynasty. 2022年3月26日(星期六) 6:00pm',
-    buttonText: 'Vist Now',
+    buttonText: 'Bid Now',
     buttonLik: '#',
   },
   {
@@ -38,7 +38,7 @@ export const mainCarouselData = [
     photoUrl: '/assets/images/products/image3.jpeg',
     description:
       'This product was discovered during Ming Dynasty. 2022年3月26日(星期六) 6:00pm',
-    buttonText: 'Vist Now',
+    buttonText: 'Bid Now',
     buttonLik: '#',
   },
 ]

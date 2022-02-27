@@ -1,8 +1,8 @@
+import { Grid, Pagination } from '@mui/material'
 import FlexBox from 'components/FlexBox'
 import ProductCard1 from 'components/product-cards/ProductCard1'
 import { Span } from 'components/Typography'
 import productDatabase from 'data/product-database'
-import { Grid, Pagination } from '@mui/material'
 import React from 'react'
 
 export interface ProductCard1ListProps {}
